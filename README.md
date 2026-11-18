@@ -1,4 +1,4 @@
-Profissional de dados e tecnologia com mais de 20 anos de experiência, atuando em SQL, processos ETL, Data Warehousing, modelagem de dados e soluções analíticas.
+Profissional de dados e tecnologia com bastante experiência, atuando em SQL, processos ETL, Data Warehousing, modelagem de dados e soluções analíticas.
 
 Atualmente, estou direcionando meu portfólio para **Engenharia de Dados**, aprofundando conhecimentos em Databricks, PySpark e arquitetura Lakehouse.
 
